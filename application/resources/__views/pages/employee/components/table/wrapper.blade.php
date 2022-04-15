@@ -1,0 +1,1 @@
+<!--main table view-->@include('pages.employee.components.table.table')
